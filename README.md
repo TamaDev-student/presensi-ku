@@ -1,3 +1,4 @@
+
 # Presensi Ku
 
 Aplikasi presensi berbasis Flutter dan Firebase. Aplikasi ini memungkinkan pengguna untuk melakukan presensi dengan mudah menggunakan perangkat seluler mereka. Dengan fitur-fitur seperti autentikasi pengguna, pencatatan waktu, dan integrasi dengan Firebase, aplikasi ini memberikan solusi yang efisien untuk manajemen presensi.
@@ -38,3 +39,6 @@ Aplikasi presensi berbasis Flutter dan Firebase. Aplikasi ini memungkinkan pengg
 3. Gunakan perintah `git commit -m "Pesan commit Anda"` untuk membuat commit dengan pesan yang menjelaskan perubahan yang telah Anda buat.
 4. Gunakan perintah `git push origin nama-branch` untuk mengirim commit Anda ke repositori remote di GitHub. Gantilah `nama-branch` dengan nama branch yang sesuai dengan alur kerja Anda, seperti `main` atau `master`.
 5. Setelah Anda melakukan push, perubahan Anda akan terlihat di repositori GitHub dan dapat diakses oleh anggota tim atau publik, tergantung pada pengaturan privasi repositori Anda.
+=======
+# presensi-ku
+
