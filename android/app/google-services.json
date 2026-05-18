@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "524638568840",
+    "project_id": "presensi-sekolah-50f43",
+    "storage_bucket": "presensi-sekolah-50f43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524638568840:android:aad37e57a6a2d600f0fa3d",
+        "android_client_info": {
+          "package_name": "com.example.apk_presensi_sma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524638568840-ebn1sal9u9ng2a1id2h7dve2unggdg0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apk_presensi_sma",
+            "certificate_hash": "ebb899b22fdaa524d1b4c8f55c3aca9b64c98eee"
+          }
+        },
+        {
+          "client_id": "524638568840-ugbg4g2dblsjaelh0dhs446pesn5g5tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Yv2dzHOxht8IXbExjL7Fz6pPeBP0d50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524638568840-ugbg4g2dblsjaelh0dhs446pesn5g5tt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "524638568840-um9blq9k3efs16drkb909ji98cd8hoda.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.apkPresensiSma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
